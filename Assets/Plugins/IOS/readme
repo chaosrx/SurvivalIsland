@@ -1,0 +1,14 @@
+
+Usage for IOS:
+
+1. Build the Unity3D project for IOS normally.
+2. Open Xcode project, add libNativeBox2D.a to Unity-iPhone target.
+  
+   a) Select Unity-iPhone under TARGETS.
+   b) Switch to Build Phases tab.
+   c) Click "+" under Link Binary With Libraries.
+   d) Click Add Other and choose libNativeBox2D.a from Assets/Plugin/IOS/
+   e) done
+
+3. Build for your device as normal.
+4. Have fun!
