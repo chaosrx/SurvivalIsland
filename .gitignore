@@ -164,6 +164,6 @@ pip-log.txt
 .DS_Store
 
 # Unity 3D
-Library
-Temp
-obj
+Library/
+Temp/
+obj/
