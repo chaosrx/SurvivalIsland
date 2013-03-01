@@ -166,3 +166,5 @@ pip-log.txt
 Library/
 Temp/
 obj/
+Assets/Standard\ Assets\ (Mobile)
+.pidb
